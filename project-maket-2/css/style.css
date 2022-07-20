@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+.fon{
+    width: 430px; 
+    height: 448px; 
+    background: #2C2D33;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
+.primary-tex{
+    font: 600 16px 'Roboto';
+    color: #828282;
+    margin-left: 45px;
+    padding-top: 28px;
+}
+.number1{
+    font: 500 40px 'Roboto';
+    color: #FFFFFF;
+    margin: 4px 0px 0px 45px;
+}
+.secondary-text{
+    font: 400 14px 'Roboto';
+    color: #FFFFFF;
+    margin: 4px 0px 0px 45px;
+}
+.hr{
+    background-color:#4F4F4F ;
+    height: 2px;
+    width: 100%;
+    margin-top: 23px;
+}
+.img{
+    background-image: url(../img/Group\ 2294.svg); 
+    width: 365px; 
+    height: 197px; 
+    margin: 18px 0px 0px 29px;
+}
+.block{
+    display: flex;
+}
+.smal-kvad-1{ 
+    background: #165BAA; 
+    width: 21px; 
+    height: 8px; 
+    margin: 44px 0px 0px 72px;
+} 
+.prod-1{
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin: 40px 0px 0px 9px;
+}
+.smal-kvad-2{
+    background: #A155B9;
+    width: 21px; 
+    height: 8px;
+    margin: 44px 0px 0px 13px;
+}
+.prod-2{
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin: 40px 0px 0px 9px;
+}
+.smal-kvad-3{
+    background: #F765A3;
+    width: 21px; 
+    height: 8px;
+    margin: 44px 0px 0px 14px;
+}
+.prod-3{
+    font: 400 12px 'Inter';
+    color: #FFFFFF;
+    margin: 40px 0px 0px 9px;
+}

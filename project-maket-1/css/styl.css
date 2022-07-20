@@ -1,89 +1,103 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Roboto';
     font-style: normal;
 }
-.fon{ 
-    width: 430px; 
-    height: 400px; 
-    background: #FFFFFF; 
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); 
-    border-radius: 6px; 
-} 
-.primary-tex{ 
-    font: 500 16px 'Roboto'; 
-    color: #828282; 
+
+.fon {
+    width: 430px;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
+
+.primary-tex {
+    font: 500 16px 'Roboto';
+    color: #828282;
     margin-left: 45px;
     padding-top: 28px;
-} 
-.number1{ 
+}
+
+.number1 {
     font: 500 40px 'Roboto';
-    color: #0B1354; 
+    color: #0B1354;
     margin: 4px 0px 0px 45px;
-} 
- 
-.secondary-text{ 
+}
+
+.secondary-text {
     font: 400 14px 'Roboto';
-    color: #4F4F4F; 
+    color: #4F4F4F;
     margin: 4px 0px 0px 45px;
-} 
-.hr{
-    background-color:#ECECEC ;
+}
+
+.hr {
+    background-color: #ECECEC;
     height: 2px;
     width: 100%;
     margin-top: 27px;
 }
-.block-1{
+
+.block-1 {
     display: flex;
 }
-.img{ 
-    background-image: url(../img/Group\ 2280.svg); 
-    width: 278.6px; 
-    height: 278.6px; 
+
+.img {
+    background-image: url(../img/Group\ 2280.svg);
+    width: 278.6px;
+    height: 278.6px;
     margin-top: -28px;
 }
-.block-2{
+
+.block-2 {
     display: table-column;
 }
-.smal-kvad-1{ 
-    background: #165BAA; 
-    width: 21px; 
-    height: 8px; 
-    left: 178px; 
-    right: 278px; 
+
+.smal-kvad-1 {
+    background: #165BAA;
+    width: 21px;
+    height: 8px;
+    left: 178px;
+    right: 278px;
     margin-top: 33px;
-} 
-.smal-kvad-2{ 
+}
+
+.smal-kvad-2 {
     background: #F765A3;
-    width: 21px; 
-    height: 8px; 
-    left: 178px; 
-    right: 278px; 
+    width: 21px;
+    height: 8px;
+    left: 178px;
+    right: 278px;
     margin-top: 17px;
-} 
-.smal-kvad-3{ 
+}
+
+.smal-kvad-3 {
     background: #16BFD6;
-    width: 21px; 
-    height: 8px; 
-    left: 178px; 
-    right: 278px; 
+    width: 21px;
+    height: 8px;
+    left: 178px;
+    right: 278px;
     margin-top: 16px;
 }
-.block-3{
+
+.block-3 {
     display: table-column;
 }
-.Product-1{
+
+.Product-1 {
     font: 400 12px 'Inter';
     color: #4F4F4F;
     margin: 29px 0px 0px 9px;
 }
-.Product-2{
+
+.Product-2 {
     font: 400 12px 'Inter';
     color: #4F4F4F;
     margin: 11px 0px 0px 9px;
 }
-.Product-3{
+
+.Product-3 {
     font: 400 12px 'Inter';
     color: #4F4F4F;
     margin: 7px 0px 0px 9px;
